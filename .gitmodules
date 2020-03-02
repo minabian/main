@@ -1,3 +1,0 @@
-[submodule "thirdparty"]
-	path = thirdparty
-	url = git@github.com:minabian/thirdparty.git
